@@ -4,5 +4,4 @@ body {
     grid-template-rows: 100px 100px 100px;
     gap: 20px;
     grid-template-areas: 'blue blue blue' 'green green .' '. black black';
-    padding: 20px;
 }
